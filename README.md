@@ -56,11 +56,11 @@ db.MyCompanyEmployees.find({ gender: "Female" }).sort({ salary: -1 }).limit(5)
 
 
 MongoDB Atlas Charts
-Create a dashboard using MongoDB Atlas Charts with the MyCompanyEmployees collection. Include a grouped bar chart and a donut chart.
+Create a dashboard using MongoDB Atlas Charts with the MyCompanyEmployees collection.
 
 ![Image Alt Text](MongoDB_atlas_chart.png)
 
-Use Pentaho Data Integration to replicate the ETL task demonstrated in class. Each group member should create a database and collection in their MongoDB Atlas account.
+Use Pentaho Data Integration to replicate the ETL task demonstrated in class.
 
 ![Image Alt Text](pentaho.png)
 
