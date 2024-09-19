@@ -60,7 +60,7 @@ Create a dashboard using MongoDB Atlas Charts with the MyCompanyEmployees collec
 
 ![Image Alt Text](MongoDB_atlas_chart.png)
 
-Use Pentaho Data Integration to replicate the ETL task demonstrated in class.
+Use Pentaho Data Integration to replicate the ETL task.
 
 ![Image Alt Text](pentaho.png)
 
